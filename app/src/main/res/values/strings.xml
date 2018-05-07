@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Room Database</string>
+    <string name="action_settings">Settings</string>
+    <string name="applicant_name">Android Codility</string>
+    <string name="add">Add</string>
+    <string name="person_name">Person Name</string>
+    <string name="item_name">Item Name</string>
+</resources>
